@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santel62
+- 👋 Hi, I’m @Sébastien
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 
