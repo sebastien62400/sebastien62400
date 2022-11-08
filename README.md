@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
-<img align="right" width="400" alt="coding-interface" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
 
 - 🌱 I’m currently learning **Web Development**
 
