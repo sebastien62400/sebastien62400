@@ -1,4 +1,4 @@
-[![MasterHead] (https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xx_croppedTeaserImage.jpg)]
+![MasterHead](https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xx_croppedTeaserImage.jpg)
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
