@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
-<img align="right" width="400" alt="coding-interface" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<img align="right" width="400" alt="coding-interface" src="[https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif](https://camo.githubusercontent.com/1ba5d6ffad51996d3eeafca3c6eb4294b9bbce95b109b090c8a801058ffbb8a4/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f35303838362f73637265656e73686f74732f323731303032342f636f64696e672e676966)">
 
 - 🌱 I’m currently learning **Web Development**
 
