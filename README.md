@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Programation, motorbikes, video games**
 
-- ⚡ Fun fact **I've coded a fake cheat for games with electron.js**
+- ⚡ Fun fact **I've coded a fake cheat for games with <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
