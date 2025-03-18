@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/sebastien62400/sebastien62400/output/snake.svg](https://profile-readme-generator.com/assets/snake.svg)" alt="Snake animation" />
+<img src="[https://profile-readme-generator.com/assets/snake.svg](https://profile-readme-generator.com/assets/snake.svg)" alt="Snake animation" />
 
 ###
 
